@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on software that monitors servers and video management/security systems
-- 🌱 I’m currently learning .NET
+- 🌱 I’m currently learning DevOps
 - 🤔 I’m looking for help with finding work
 - 💬 Ask me about dogs!
 - 📫 How to reach me: SaraAustenM@gmail.com
