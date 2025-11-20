@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on software that monitors servers and video management/security systems
-- 🌱 I’m currently learning DevOps
+- 🔭 I’m currently working in health wearables
+- 🌱 I’m currently learning Java
 - 🤔 I’m looking for help with finding work
 - 💬 Ask me about dogs!
 - 📫 How to reach me: SaraAustenM@gmail.com
